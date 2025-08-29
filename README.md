@@ -3,3 +3,4 @@
 ![image alt](https://github.com/Shri31Shetty/Technical-Assissment/blob/65218a0e37a06510a0f04707262b8106a3b0047e/result3.png)
 ![image alt](https://github.com/Shri31Shetty/Technical-Assissment/blob/655251eb1ae9509039e62b28f9a875b9f28d8841/result4.png)
 ![image alt](https://github.com/Shri31Shetty/Technical-Assissment/blob/116fb680a6e585d0dafc42f6789f534be4bdd526/result5.png)
+![image alt](https://github.com/Shri31Shetty/Technical-Assissment/blob/1705107e67aa7b5cdee7a437f5f39ef07b604f7e/Table.png)
